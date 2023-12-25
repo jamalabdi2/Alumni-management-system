@@ -1,6 +1,12 @@
 # Alumni-management-system
 This is a vanilla PHP project utilizing MySQL as its database. The CRUD (Create, Read, Update, Delete) application is designed for managing school alumni and events. I developed this project as part of an Advanced Web Development course.
 
+## Video Demo
+
+https://github.com/jamalabdi2/Alumni-management-system/assets/113813239/bf5e423a-8606-4427-bd9b-6204219d6c50
+
+
+
 # Content
 This app comprises alumni registration functionality. After registering, alumni can log in to their accounts to view other alumni and edit their information. The user's information is stored in cookies to enable seamless access.
 
