@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #4caf50;
+    color: white;
+}
+
+button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 8px;
+    margin-right: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+
+
+td img {
+    max-width: 50px;
+    max-height: 50px;
+    border-radius: 50%;
+}
+
+.navbar {
+    background-color: #4caf50;
+    padding: 15px 20px;
+    border-bottom: 1px solid #ddd;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.navbar-nav {
+    margin-top: 10px;
+}
+
+.navbar-nav .nav-link {
+    color: #333;
+    margin-right: 15px;
+    font-size: 18px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #fff;
+}
+
+
+.events,.edit{
+    background-color: #4caf50;
+    color: #fff;
+    padding: 8px;
+    margin-right: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+}
